@@ -1,6 +1,6 @@
 ## Hello！
 I'm a Computer Science and Technology, IoT and Embedded Software Engineering undergraduate in China.
-<p align="right">
+<p align="center">
   <a href="https://github.com/Sakurapainting" class="rich-diff-level-one">
     <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical" alt="Sakurapainting's Stats" >
   </a>
