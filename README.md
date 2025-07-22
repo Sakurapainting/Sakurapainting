@@ -1,5 +1,5 @@
 ## Hello！
-I'm a student and developer majoring in Computer Science and Technology and Embedded Software Engineering in China.
+I'm a Computer Science and Technology, IoT and Embedded Software Engineering undergraduate in China.
 <p align="center">
   <a href="https://github.com/Sakurapainting" class="rich-diff-level-one">
     <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical" alt="Sakurapainting's Stats" >
