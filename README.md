@@ -2,10 +2,10 @@
 I'm a Computer Science and Technology, IoT and Embedded Software Engineering undergraduate in China.
 <p align="center">
   <a href="https://github.com/Sakurapainting" class="rich-diff-level-one">
-    <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical" alt="Sakurapainting's Stats" >
+    <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical" alt="Sakurapainting's Stats" height="166">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="180">
   </a>
 </p>
-<h2></h2>
 
 #### languages and Frameworks
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
