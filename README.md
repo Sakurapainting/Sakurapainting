@@ -20,6 +20,7 @@ I'm a Computer Science and Technology, IoT and Embedded Software Engineering und
 ![](https://img.shields.io/badge/VS-5C2D91?logo=Visual-Studio&logoColor=fff)
 ![](https://img.shields.io/badge/Keil5-0091BD?logo=ARM&logoColor=fff)
 ![](https://img.shields.io/badge/IDEA-AF1DF5?logo=IntelliJ-IDEA&logoColor=fff)
+![](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=fff)
 
 #### Platforms
 
