@@ -1,5 +1,6 @@
 ## Hello！
-I'm a Computer Science and Technology, IoT and Embedded Software Engineering undergraduate in China.
+- I'm a Computer Science and Technology, IoT and Embedded Software Engineering undergraduate in China.
+- Reach Me @: you2899047197@163.com
 <p align="center">
   <a href="https://github.com/Sakurapainting" class="rich-diff-level-one">
     <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical" alt="Sakurapainting's Stats" >
