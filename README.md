@@ -3,7 +3,7 @@
 - Reach Me @: you2899047197@163.com
 <p align="center">
   <a href="https://github.com/Sakurapainting" class="rich-diff-level-one">
-    <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical" alt="Sakurapainting's Stats" >
+    <img src="https://github-readme-stats-uyes-projects.vercel.app/api?username=Sakurapainting&show_icons=true&theme=radical&count_private=true" alt="Sakurapainting's Stats" >
   </a>
 </p>
 
