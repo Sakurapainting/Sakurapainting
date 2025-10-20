@@ -7,7 +7,7 @@
   </a>
 </p>
 
-#### languages and Frameworks
+#### Languages and Frameworks
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/git-F05032?logo=git&logoColor=fff)
