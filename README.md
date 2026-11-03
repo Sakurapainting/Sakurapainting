@@ -28,3 +28,4 @@
 ![](https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=fff)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=fff)
